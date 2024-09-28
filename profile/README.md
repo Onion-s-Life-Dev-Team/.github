@@ -1,5 +1,4 @@
 **WELCOME TO THE ONIONVERSE**  
-In our largest update yet, we have now implemented multiplayer. Have fun with your friends!
 
 ![Image](assets/sprites/onion.png)
 
